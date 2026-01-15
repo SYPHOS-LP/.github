@@ -25,7 +25,7 @@ Our expertise spans:
 ## Selected Projects
 
 ### Spectrum Sharing Governor (2024-2025)
-Dynamic frequency allocation system for satellite-ground station communications, developed for LibreSpace Foundation's Makerspace initiative (ESA-funded).
+Dynamic frequency allocation system for satellite-ground station communications, developed in the frame of [The Spectrum-sharing MakerSpace](https://spectrum-sharing-maker.space/), a project funded by the European Space Agency and implemented by the Libre Space Foundation.
 - **Repository**: [GitLab - LibreSpace Foundation](https://gitlab.com/librespacefoundation/spectrum-sharing-makerspace/spectrum-sharing-governor/-/tree/STAGE-01)
 - **Focus**: Collision detection and optimization for SATNOGS network
 
